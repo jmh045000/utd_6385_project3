@@ -1,0 +1,6 @@
+*.o
+*.map
+.depend
+main
+sol1
+sol2
